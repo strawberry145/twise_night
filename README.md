@@ -7,7 +7,7 @@
 
 1. Purpose
 
-Our game is designed to raise awareness about the urgency of global warming, with a special focus on the dramatic climate changes happening in Tunisia. We want to inspire players to be part of the solution by highlighting two key actions:
+This game is designed to raise awareness about the urgency of global warming, with a special focus on the dramatic climate changes happening in Tunisia. We want to inspire players to be part of the solution by highlighting two key actions:
 
 1.	Improving energy efficiency – It’s not just about using less energy, but making sure it’s distributed wisely across different applications.
 2.	Expanding renewable energy – By shifting away from fossil fuels, we can reduce carbon emissions and build cleaner, more sustainable cities.
